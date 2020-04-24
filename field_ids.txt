@@ -1,0 +1,16 @@
+week: week
+semester: SEMCODE
+Course: COURSECD
+Subject: SUBJECTCODE
+Topic Covered: topic_covered
+Platform Used: platform_used
+Class Taken By: class_taken_by
+Date/Time: date_tme
+Record Lecture Upload Link: record_lecture_upload_link
+Duration In Min: duration_in_min
+Post Class Interraction Note: post_class_interraction_note
+Assignment Recieved: assignment_received
+Assignment Submitted: assignment_submitted
+Test Attended if Any: test_attended_if_any
+Daily Self Acitvity: daily_self_acitvity
+Remark: remark
